@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: edu.sistema.Fonda1ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 58.35 s -- in edu.sistema.Fonda1ApplicationTests
